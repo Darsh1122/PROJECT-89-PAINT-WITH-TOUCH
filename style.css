@@ -1,0 +1,41 @@
+.body_backgorund {
+    background-position: center;
+    background-size: cover;
+  }
+  body {
+    text-align: center;
+    background-color: black;background: radial-gradient( circle,
+    rgba(162, 0, 255, 1) 0%,
+    rgba(0, 255, 247, 1) 100% );
+    font-family: Pacifico;
+     text-align: center;
+      padding: 100px;
+
+}
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
